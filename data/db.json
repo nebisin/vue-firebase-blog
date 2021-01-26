@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the blog",
+      "body": "lorem ipsum dolor sit amet.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tricks",
+      "body": "lorem ipsum dolor sit amet.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "test",
+      "body": "test",
+      "tags": [
+        "test"
+      ],
+      "id": 3
+    },
+    {
+      "title": "test2",
+      "body": "test",
+      "tags": [
+        "test"
+      ],
+      "id": 4
+    },
+    {
+      "title": "test3",
+      "body": "test",
+      "tags": [],
+      "id": 5
+    }
+  ]
+}
